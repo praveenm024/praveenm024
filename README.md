@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Data Analyst</b> · SQL · Python · Power BI · Excel<br/>
-  Turning raw data into decisions that matter.
+  Turning raw data into decisions that matter.<br/>
+        Analytics Creator on LinkedIn.
 </p>
 
 <p align="center">
