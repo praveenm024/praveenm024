@@ -24,9 +24,11 @@
 
 ## About Me
 
-I'm a Data Analyst based in **Bengaluru, India**, with hands-on experience in **SQL, Python, Power BI, and Excel** — building the pipelines, dashboards, and reports that operations teams actually rely on. I've worked across MIS reporting, operational analytics, and end-to-end data workflows — delivering measurable impact at both analytics role (Concentrix) and a freelance engagement (Valorax PackTech Solutions),I also create Analysis based content on LinkedIn do check out .
+I'm a Data Analyst based in **Bengaluru, India**, with hands-on experience in **SQL, Python, Power BI, and Excel** — building the pipelines, dashboards, and reports that operations teams actually rely on. I've worked across MIS reporting, operational analytics, and end-to-end data workflows — delivering measurable impact at both analytics role (Concentrix) and a freelance engagement (Valorax PackTech Solutions).
 
 I work best when the problem is messy and the stakes are real: owning the full pipeline from raw data to business recommendation, not just building charts.
+
+I also create Analysis based content on LinkedIn about my learning ,finding,Business & analytical thinking and much more. 
 
 
 
